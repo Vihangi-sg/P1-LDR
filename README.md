@@ -1,2 +1,2 @@
-# P1-LDR
-Implement a system based on the ATmega328P microcontroller that reads light intensity from two LDRs (LDR1 and LDR2), maps the readings, and sends the higher value through serial communication. It also allow users to adjust the time interval for sending the data using push buttons.
+### P1-LDR
+A project implemented on PlatformIO in VS Code to execute a system based on the ATmega328P microcontroller that reads light intensity from two LDRs (LDR1 and LDR2), maps the readings, and sends the higher value through serial communication. It also allow users to adjust the time interval for sending the data using push buttons.
